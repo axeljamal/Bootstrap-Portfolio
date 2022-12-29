@@ -51,7 +51,6 @@ p {
 .jumbotron {
   background-image: url(../images/IMG_0786.JPG);
   background-size: 50em;
-  background-position: 60em;
   background-color: black;
   background-repeat: no-repeat;
   height: calc(100vh - 25px);
